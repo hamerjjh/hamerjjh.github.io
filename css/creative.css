@@ -35,6 +35,13 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
+.profilepic {
+  padding-top: 5px;
+  width: 250px ;
+  height: 280px ;
+  border-radius: 50%;
+}
+
 .bg-primary {
   background-color: #F05F40 !important; }
 
